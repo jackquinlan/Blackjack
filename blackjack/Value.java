@@ -4,6 +4,7 @@ package blackjack;
 * Holds the Values for each card
 */
 public enum Value {
+    
     ACE,
     TWO,
     THREE,
@@ -17,4 +18,5 @@ public enum Value {
     JACK,
     QUEEN,
     KING
+        
 }
